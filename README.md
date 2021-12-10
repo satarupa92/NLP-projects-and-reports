@@ -1,1 +1,2 @@
 # NLP-projects-and-reports
+Online hate, described as abusive language, aggression, cyberbullying, hatefulness and many others has been identified as a major threat on online social media platforms. With the increase of such instances, it is all the more necessary to make the online platform safer for it’s users. So, the idea is to help separate the hateful words and filter them. It can be done by building a classification model. Which will help , control the spread of hate , cyberbullying online.
